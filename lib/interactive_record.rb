@@ -54,3 +54,4 @@ class InteractiveRecord
   end
 
 end
+#this is cool
